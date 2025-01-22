@@ -6,7 +6,7 @@
 - GPU: RX 6600 XT ( ROG Strix Radeon RX 6600 XT OC Edition 8GB GDDR6 )
 - Motherboard: ASUS TUF GAMING B550M-PLUS WIFI II
 - Power Supply: 750 Watt ( Corsair CX750F RGB CX-F Series ))
-- LAN: Realtek RTL8151GH-CG
+- LAN: Builtin works
 - WLAN: Fenvi T919
 
 Handoff + Airdrops Work!
