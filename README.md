@@ -11,5 +11,5 @@
 
 Handoff + Airdrops Work!
 
-SMBIOS Used: MacPro7,1
-Note: Please update the SMBIOS info.
+`SMBIOS Used: MacPro7,1`
+### Note: Please update the SMBIOS info.
